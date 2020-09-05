@@ -5,9 +5,9 @@ by [yu-design] and [Runolf].
 
 Their Linkedin profil: 
 
-Runolf: [Runolf_Linkedin]
+[Runolf Linkedin]
 
-yu-design: [yu-design_Linkedin]
+[yu-design Linkedin]
 
 ## This project's purpose is to learn:
 * Angular
@@ -17,8 +17,8 @@ yu-design: [yu-design_Linkedin]
 
 [yu-design]:https://github.com/yu-design
 [Runolf]:https://github.com/Runolf
-[Runolf_Linkedin]: https://www.linkedin.com/in/alexandre-liskiewicz-0288ba145/
-[yu-design_Linkedin]: https://www.linkedin.com/in/julien-deyaert-048a6b17b/
+[Runolf Linkedin]: https://www.linkedin.com/in/alexandre-liskiewicz-0288ba145/
+[yu-design Linkedin]: https://www.linkedin.com/in/julien-deyaert-048a6b17b/
 
 ## What does the project do?
 
