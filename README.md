@@ -4,7 +4,9 @@ Project made during the computer science's bacherlor third year
 by [yu-design] and [Runolf]. 
 
 Their Linkedin profil: 
+
 Runolf: [Runolf_Linkedin]
+
 yu-design: [yu-design_Linkedin]
 
 ## This project's purpose is to learn:
