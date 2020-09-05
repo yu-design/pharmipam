@@ -16,16 +16,16 @@ by [yu-design] and [Runolf].
 
 It's a web app that allows to a : 
 * patient
-..* to make an appointment
-..* to create / modify / delete his/her account
+	* to make an appointment
+	* to create / modify / delete his/her account
 
 * doctor
-..* accept an appointment
-..* create his/her account
+	* accept an appointment
+	* create his/her account
 
 * admin
-..* modify/delete accounts (doctors and patient)
-..* to make an appointment (because they are humans too, you kow!)
+	* modify/delete accounts (doctors and patient)
+	* to make an appointment (because they are humans too, you kow!)
 
 We will probably add different stuff later. 
 
