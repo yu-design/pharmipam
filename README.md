@@ -24,16 +24,17 @@ Their Linkedin profil:
 
 It's a web app that allows to a : 
 * patient
-	* to make an appointment
+	* to make an appointment / modify / delete the appointment
 	* to create / modify / delete his/her account
 
 * doctor
 	* accept an appointment
-	* create his/her account
+	* create his/her account -> Le médecin ne crée pas son accompte, c'est l'admin qui s'en charge.
 
 * admin
 	* modify/delete accounts (doctors and patient)
 	* to make an appointment (because they are humans too, you kow!)
+	* create an account to a doctor or a patient
 
 We will probably add different stuff later. 
 
