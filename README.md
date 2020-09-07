@@ -28,13 +28,11 @@ It's a web app that allows to a :
 	* to create / modify / delete his/her account
 
 * doctor
-	* accept an appointment
-	* create his/her account -> Le médecin ne crée pas son accompte, c'est l'admin qui s'en charge.
+	* accept an appointment!
 
 * admin
 	* modify/delete accounts (doctors and patient)
 	* to make an appointment (because they are humans too, you kow!)
-	* create an account to a doctor or a patient
 	* create, delete or modify an account for doctors and patients 
 
 We will probably add different stuff later. 
