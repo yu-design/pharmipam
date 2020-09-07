@@ -35,6 +35,7 @@ It's a web app that allows to a :
 	* modify/delete accounts (doctors and patient)
 	* to make an appointment (because they are humans too, you kow!)
 	* create an account to a doctor or a patient
+	* create, delete or modify an account for doctors and patients 
 
 We will probably add different stuff later. 
 
