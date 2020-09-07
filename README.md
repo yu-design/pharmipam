@@ -28,7 +28,7 @@ It's a web app that allows to a :
 	* to create / modify / delete his/her account
 
 * doctor
-	* accept an appointment
+	* accept an appointment!
 
 * admin
 	* modify/delete accounts (doctors and patient)
